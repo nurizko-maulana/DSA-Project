@@ -3,3 +3,4 @@ Work Plan
   *30 november
   *1 desember
 -discus what we need to do
+ *menu file
